@@ -1,0 +1,7 @@
+file,area,n_500poss,wrmse,r2,pearson,spearman
+vpm_alt3_3factor_22_26_rs_se_a2000_2000_offdefprior_td500.csv,off,835,0.829,0.822,0.863,0.847
+vpm_alt3_3factor_22_26_rs_se_a2000_2000_offdefprior_td500.csv,def,835,0.717,0.826,0.883,0.888
+vpm_alt3_3factor_22_26_rs_se_a2000_2000_offdefprior_td500.csv,net,835,1.112,0.835,0.874,0.864
+vpm_alt3_3factor_22_26_rs_se_a2000_2000_offdefprior_td700_OPTIMAL.csv,off,835,0.689,0.877,0.902,0.896
+vpm_alt3_3factor_22_26_rs_se_a2000_2000_offdefprior_td700_OPTIMAL.csv,def,835,0.596,0.879,0.919,0.924
+vpm_alt3_3factor_22_26_rs_se_a2000_2000_offdefprior_td700_OPTIMAL.csv,net,835,0.92,0.887,0.911,0.908
